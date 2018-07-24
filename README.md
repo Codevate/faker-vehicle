@@ -10,12 +10,12 @@ This package is not available on Packagist, this means that in order to make Com
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mattwells/faker-vehicle.git"
+            "url": "https://github.com/codevate/faker-vehicle.git"
         }
     ]
 ```
 
-Then add `"mattwells/faker-vehicle": "dev-master"` to your `require` or `require-dev` array.
+Then add `"codevate/faker-vehicle": "^1.0"` to your `require` or `require-dev` array.
 
 Finally you need to add the provider to Faker:
 

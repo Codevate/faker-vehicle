@@ -1,5 +1,5 @@
 {
-    "name": "mattwells/faker-vehicle",
+    "name": "codevate/faker-vehicle",
     "description": "Faker provider for vehicles",
     "autoload": {
         "psr-4": {
